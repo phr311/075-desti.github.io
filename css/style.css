@@ -413,10 +413,10 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
   #home,#about_me,#contact{
     width:100%;
-    padding: 40%;
+    padding: 25%;
     padding-bottom: 70%;
   }
 
@@ -425,7 +425,7 @@
     padding-right: 20%;
   }
   #home h1{
-    font-size: 12.6vw;
+    font-size: 12.7vw;
     padding: 0;
   }
   #home h2{
